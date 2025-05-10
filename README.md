@@ -8,7 +8,7 @@
 * University : VTU
 * Year :2025
 
-This is the dbms mini project. Created a DBMS mini-project and desktop application where we can reserve the bus seat check the seat availability, view the seat arrangement and proceed to the payment after seat reservation
+This is my DBMS mini project. I've created a DBMS mini-project and desktop application where we can reserve seats in a bus while travelling, check the seat availability, view the seat arrangement and proceed to the payment after seat reservation
 
 ---
 ### Technology Used:
